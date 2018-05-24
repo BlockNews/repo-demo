@@ -24,10 +24,10 @@ Detailed documentation on [GitHub Wiki](https://github.com/BlockNews/repo-demo/w
 
     If you cannot run the repo-demo command directly(possibly because the location it was installed isn't on your operatoring system's PATH) then you can run ifits-sftp_test with the Python interpreter:
 
-    >python -m repo-demo.speed_measurement
+    >python -m repo_demo.speed_measurement
 
 
-### Python APIs
+### [Python APIs](https://blocknews.github.io/repo-demo/build/html/)
 
 
 ## Development
